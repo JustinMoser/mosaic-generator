@@ -1,0 +1,16 @@
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\obj\Debug\LBi.Mosiac.Test.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\bin\Debug\LBi.Mosiac.Test.dll.config
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\bin\Debug\LBi.Mosiac.Test.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\bin\Debug\LBi.Mosiac.Test.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\bin\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\bin\Debug\LBi.Mosaic.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Test\obj\Debug\LBi.Mosiac.Test.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\LBi.Mosaic.Test.dll.config
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\LBi.Mosaic.Test.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\LBi.Mosaic.Test.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\LBi.Mosaic.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\LBi.Mosaic.Test.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\LBi.Mosaic.Test.pdb

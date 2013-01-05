@@ -1,0 +1,16 @@
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\Mosaic.Test.dll.config
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\Mosaic.Test.dll
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\Mosaic.Test.pdb
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\Mosaic.Business.dll
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\bin\Debug\Mosaic.Business.pdb
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\Mosaic.Test.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\Mosaic.Test.dll
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Test\obj\Debug\Mosaic.Test.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\bin\Debug\Mosaic.Test.dll.config
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\bin\Debug\Mosaic.Test.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\bin\Debug\Mosaic.Test.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\bin\Debug\Mosaic.Business.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\bin\Debug\Mosaic.Business.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\obj\Debug\Mosaic.Test.csprojResolveAssemblyReference.cache
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\obj\Debug\Mosaic.Test.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Test\obj\Debug\Mosaic.Test.pdb

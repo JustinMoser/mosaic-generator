@@ -1,0 +1,10 @@
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\Mosaic.Business.dll.config
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\Mosaic.Business.dll
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\Mosaic.Business.pdb
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Business\obj\Debug\Mosaic.Business.dll
+C:\Users\Justin\Dropbox\Work\LBI.Mosiac\LBi.Mosaic.Business\obj\Debug\Mosaic.Business.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\bin\Debug\Mosaic.Business.dll.config
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\bin\Debug\Mosaic.Business.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\bin\Debug\Mosaic.Business.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\obj\Debug\Mosaic.Business.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\obj\Debug\Mosaic.Business.pdb

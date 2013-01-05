@@ -1,0 +1,5 @@
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\bin\Debug\LBi.Mosiac.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\bin\Debug\LBi.Mosiac.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\LBi.Mosiac.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\LBi.Mosiac.Business.pdb

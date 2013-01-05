@@ -1,0 +1,12 @@
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\bin\Debug\LBi.Mosaic.Business.dll.config
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\bin\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\bin\Debug\LBi.Mosaic.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosiac.Business\obj\Debug\LBi.Mosaic.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\obj\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\LBi.Mosaic.Business.dll.config
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\LBi.Mosaic.Business.dll
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\bin\Debug\LBi.Mosaic.Business.pdb
+D:\(A) MyData\Projects\LBI.Mosiac\LBi.Mosaic.Business\obj\Debug\LBi.Mosaic.Business.pdb
