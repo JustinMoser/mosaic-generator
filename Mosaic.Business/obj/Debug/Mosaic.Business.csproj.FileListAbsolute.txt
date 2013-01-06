@@ -8,3 +8,4 @@ F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\bin\De
 F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\bin\Debug\Mosaic.Business.pdb
 F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\obj\Debug\Mosaic.Business.dll
 F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\obj\Debug\Mosaic.Business.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Business\obj\Debug\Mosaic.Business.csprojResolveAssemblyReference.cache

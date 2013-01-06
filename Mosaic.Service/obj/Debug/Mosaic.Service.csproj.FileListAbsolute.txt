@@ -1,0 +1,5 @@
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Service\bin\Mosaic.Service.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Service\bin\Mosaic.Service.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Service\obj\Debug\Mosaic.Service.dll
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Service\obj\Debug\Mosaic.Service.pdb
+F:\Work Projects\baysick Design Projects\mosaic-generator\Mosaic.Service\obj\Debug\Mosaic.Service.csprojResolveAssemblyReference.cache
