@@ -13,7 +13,7 @@ namespace Mosaic.Test
         [TestMethod]
         public void CreateImageMapTest()
         {
-            var sourceImageDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\SourceImage\\";
+            var sourceImageDirectory = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Resources\\TestLibrary\\SourceImage\\";
             ImageMapGenerator imageMapGenerator = new ImageMapGenerator(sourceImageDirectory);
             imageMapGenerator.CreateImageMap();
         }

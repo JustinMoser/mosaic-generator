@@ -29,15 +29,15 @@ namespace Mosaic.Test
             //var sourceImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Stock\\";
             //var processedImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Processed\\";
             //ImageLibraryGenerator generator = new ImageLibraryGenerator(sourceImagesDirectory, processedImagesDirectory);
-            string filePath = "C:\\Users\\moserju\\Desktop\\test.jpg";
+            string filePath = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Mosaic.Test\\img\\test.jpg";
             Assert.AreEqual("Color [A=255, R=0, G=0, B=0]", ImageLibraryGenerator.GetAverageColor(filePath).ToString());
         }
 
         [TestMethod]
         public void SerializeImageLibraryToXmlTest()
         {
-            var sourceImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Stock\\";
-            var processedImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Processed\\";
+            var sourceImagesDirectory = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Resources\\TestLibrary\\Stock\\";
+            var processedImagesDirectory = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Resources\\TestLibrary\\Processed\\";
             ImageLibraryGenerator generator = new ImageLibraryGenerator(sourceImagesDirectory, processedImagesDirectory);
             List<LibraryImage> images = new List<LibraryImage>();
             Color color = new Color();
@@ -48,10 +48,10 @@ namespace Mosaic.Test
 
         public void WriteXmlToFileTest()
         {
-            var sourceImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Stock\\";
-            var processedImagesDirectory = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Resources\\TestLibrary\\Processed\\";
+            var sourceImagesDirectory = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Resources\\TestLibrary\\Stock\\";
+            var processedImagesDirectory = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Resources\\TestLibrary\\Processed\\";
             ImageLibraryGenerator generator = new ImageLibraryGenerator(sourceImagesDirectory, processedImagesDirectory);
-            var xmlPath = "D:\\(A) MyData\\Projects\\LBI.Mosiac\\Output\\TestXml\\ImageLibrary\\ImageLibrary.xml";
+            var xmlPath = "F:\\Work Projects\\baysick Design Projects\\mosaic-generator\\Output\\TestXml\\ImageLibrary\\ImageLibrary.xml";
             Assert.IsTrue(File.Exists(xmlPath));
         }
     }
