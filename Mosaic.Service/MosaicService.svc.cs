@@ -5,14 +5,16 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
+using Mosaic.Business;
 
 namespace Mosaic.Service
 {
     public class MosaicService : IMosaicService
     {
-        public string GetData(string url)
+        public MapGrid GenerateMap(string imageUrl, string width, string height)
         {
-            return url;
+            var imageMapGenerator = new ImageMapGenerator(imageUrl);
+            return imageMapGenerator.CreateImageMap(width, height);
         }
     }
 }

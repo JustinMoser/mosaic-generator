@@ -11,12 +11,12 @@ namespace Mosaic.Business
 {
     public class ImageMapGenerator
     {
-        private string SourceImageDirectory;
+        private string SourceFileUrl;
         private string SourceImageFile;
 
-        public ImageMapGenerator(string sourceImageDirectory)
+        public ImageMapGenerator(string sourceFileUrl)
         {
-            SourceImageDirectory = sourceImageDirectory;            
+            SourceFileUrl = sourceFileUrl;            
             SourceImageFile = Directory.GetFiles(SourceImageDirectory).FirstOrDefault();
 
             if (!File.Exists(SourceImageFile))
@@ -25,12 +25,9 @@ namespace Mosaic.Business
             }
         }
 
-        public MapGrid CreateImageMap()
+        public MapGrid CreateImageMap(string width, string height)
         {
-            var map = GenerateMap(SourceImageFile, 5, 5);
-            var xml = map.ToXml();
-            WriteXmlMapToFile(xml);
-            return map;
+            return GenerateMap(SourceImageFile, Convert.ToInt32(width), Convert.ToInt32(height));
         }
 
         public static MapGrid GenerateMap(string filePath, int cellWidth, int cellHeight)
